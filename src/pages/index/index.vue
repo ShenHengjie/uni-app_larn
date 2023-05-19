@@ -10,6 +10,7 @@
     <view class="text-area">
       <text class="title">{{ title }}</text>
     </view> -->
+    设计财产分割：
     <switch
       :checked="switch_show"
       @change="switch_change"
@@ -80,7 +81,7 @@ const reset = () => {
 
 <style scoped lang="scss">
 .content {
-  display: flex;
+  // display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;

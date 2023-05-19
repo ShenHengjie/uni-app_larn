@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4075997 */
+  src: url('iconfont.woff2?t=1684464351595') format('woff2'),
+       url('iconfont.woff?t=1684464351595') format('woff'),
+       url('iconfont.ttf?t=1684464351595') format('truetype'),
+       url('iconfont.svg?t=1684464351595#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-uniappyoujiantou:before {
+  content: "\e602";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Check:before {
+  content: "\e608";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Close:before {
+  content: "\e609";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Close-Circle:before {
+  content: "\e60a";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-left:before {
+  content: "\e60b";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Info-Circle:before {
+  content: "\e60c";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Plus:before {
+  content: "\e60d";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-doubleleft:before {
+  content: "\e60e";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Minus-Square:before {
+  content: "\e60f";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-plus-square:before {
+  content: "\e610";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Down:before {
+  content: "\e611";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-doubleright:before {
+  content: "\e612";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Download:before {
+  content: "\e613";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Check-Circle:before {
+  content: "\e614";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Upload:before {
+  content: "\e615";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Search:before {
+  content: "\e616";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Save:before {
+  content: "\e617";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Eye-Close:before {
+  content: "\e618";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Time:before {
+  content: "\e619";
+}
+
+.icon-uniappicon_mima:before {
+  content: "\e61a";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Exclaimination:before {
+  content: "\e61b";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Question-Circle-Line:before {
+  content: "\e61c";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Up:before {
+  content: "\e61d";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Setting:before {
+  content: "\e61e";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Reload:before {
+  content: "\e61f";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-User:before {
+  content: "\e620";
+}
+
+.icon-uniappicon_yonghu:before {
+  content: "\e621";
+}
+
+.icon-uniappa-1tongyong-2Icontubiao-Line-Warning-Circle:before {
+  content: "\e622";
+}
+
